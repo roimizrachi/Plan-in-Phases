@@ -1,0 +1,24 @@
+{
+  "name": "plan-in-phases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test \"tests/*.test.mjs\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roimizrachi/Plan-in-Phases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/roimizrachi/Plan-in-Phases/issues"
+  },
+  "homepage": "https://github.com/roimizrachi/Plan-in-Phases#readme",
+  "devDependencies": {
+    "playwright-core": "^1.64.0"
+  }
+}
